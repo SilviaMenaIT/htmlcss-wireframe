@@ -1,3 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body {
     width: 512px;
+    margin: auto;
+    ;
+}
+
+header {
+    padding: 20px;
+    border-bottom: 2px solid black;
+
+}
+
+main {
+    padding: 20px;
+}
+
+.card {
+    border: 2px solid black;
+    padding: 24px;
+    margin: 20px 30px;
+}
+
+.card h2 {
+    margin-bottom: 10px;
+}
+
+footer {
+    border-top: 2px solid black;
+    padding: 20px;
 }
