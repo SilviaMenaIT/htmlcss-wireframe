@@ -2,11 +2,11 @@
 Exercise about a CSS Wireframe
 
 ## Project structure
--index.html
--style.css
+- index.html
+- style.css
 
 ### Goal
 Practice with:
--CSS 
--margin,padding and border.
--recreate a wireframe.
+- CSS 
+- margin,padding and border.
+- recreate a wireframe.
